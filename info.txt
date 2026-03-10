@@ -1,0 +1,8 @@
+Nombre del alumno: Wendi Aime Roman
+Fecha: 09/03/2026
+
+Objetivo de la actividad:
+Practicar el uso de Git y GitHub para crear repositorios, trabajar con ramas y realizar Pull Requests.
+
+Qué es un Pull Request:
+Un Pull Request es una solicitud para integrar cambios de una rama a otra dentro de un repositorio en GitHub.
